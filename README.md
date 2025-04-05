@@ -4,7 +4,7 @@ Generate high-quality, SEO-optimized blog posts with just a few clicks using the
 
 ---
 
-## 🚀 Features
+## Features
 
 - Generate detailed SEO-friendly blogs (~1000 words)
 - Customize tone and target audience
@@ -20,7 +20,7 @@ Generate high-quality, SEO-optimized blog posts with just a few clicks using the
 
 ---
 
-## 🧠 Tech Stack
+## Tech Stack
 
 - **Frontend**: React (Vite)
 - **Styling**: TailwindCSS
@@ -28,7 +28,7 @@ Generate high-quality, SEO-optimized blog posts with just a few clicks using the
 
 ---
 
-## 🔧 Getting Started
+## Getting Started
 
 ### 1. Clone the Repository
 
@@ -49,7 +49,7 @@ Create a .env file in the root directory:
 ```ini
 VITE_GEMINI_API_KEY=your_gemini_api_key_here
 ```
-🧠 You can get the Gemini API key from Google AI Studio.
+ You can get the Gemini API key from Google AI Studio.
 
 ### 4. Run the App
 
